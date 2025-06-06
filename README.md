@@ -1,9 +1,9 @@
 # Rust Training Repository
 
-Welcome to my personal Rust training repository!  
+Welcome to my personal Rust training repository!
 This project gathers a collection of self-contained examples and experiments to explore various Rust concepts.
 
-## 🧠 Why this repo?
+## Why this repo?
 
 Coming from almost two decades in bioinformatics, scripting in Bash, Perl, AWK (love it !!) and Groovy (have to confess, that's mostly because of Nextflow), with a background in Java and even some C/C++ from the early days - I've always been juggling between pragmatism and performance.
 
@@ -12,9 +12,11 @@ Rust caught my eye not just because it's trendy, but because it promises safety,
 I don't trust Python for anything that needs real optimisation (and R even less - let's not talk about it 🫠), so it was about time I learned a *real* language™.
 This repo is where I experiment, fail, and eventually make peace with the borrow checker.
 
+**And yes, comments and variables use some glorious franglais™ - because why choose between Molière and Shakespeare when you can enjoy les deux en même temps?**
+
 ## Repository Structure
 
-Each numbered directory corresponds to a Rust concept or theme (e.g. variables, expressions, loops, enums, etc.).  
+Each numbered directory corresponds to a Rust concept or theme (e.g. variables, expressions, loops, enums, etc.).
 Inside each folder, you'll typically find a `main.rs` file illustrating the key ideas.
 
 Example:
@@ -35,7 +37,7 @@ This modular structure makes it easy to focus on specific topics independently.
 
 ## Running an Example
 
-You can run any example using `cargo run` inside the corresponding folder.  
+You can run any example using `cargo run` inside the corresponding folder.
 Make sure each folder is initialized as a separate binary crate (with its own `Cargo.toml`) or adjust accordingly if using a workspace.
 
 ```bash
