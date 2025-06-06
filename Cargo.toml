@@ -1,0 +1,8 @@
+[workspace]
+resolver = "2"
+members = [
+    "1_variables",
+    "2_expressions",
+    "3_boucles",
+    "4_enums",
+]
