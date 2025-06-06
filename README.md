@@ -3,11 +3,14 @@
 Welcome to my personal Rust training repository!  
 This project gathers a collection of self-contained examples and experiments to explore various Rust concepts.
 
-## Why this repo?
+## 🧠 Why this repo?
 
-I come from a background in [bioinformatics / system scripting / X], and I'm learning Rust to explore safe, performant, and modern system-level programming.  
-Rather than following a single tutorial, I mix structured learning with trial-and-error coding. This repo reflects that journey: sometimes messy, sometimes elegant — but always intentional.
+Coming from almost two decades in bioinformatics, scripting in Bash, Perl, AWK (love it !!) and Groovy (have to confess, that's mostly because of Nextflow), with a background in Java and even some C/C++ from the early days - I've always been juggling between pragmatism and performance.
 
+Rust caught my eye not just because it's trendy, but because it promises safety, speed, and expressiveness without the footguns of C or the bloat of Java.
+
+I don't trust Python for anything that needs real optimisation (and R even less - let's not talk about it 🫠), so it was about time I learned a *real* language™.
+This repo is where I experiment, fail, and eventually make peace with the borrow checker.
 
 ## Repository Structure
 
